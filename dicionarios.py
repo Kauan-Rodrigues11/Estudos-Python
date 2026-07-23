@@ -29,5 +29,6 @@ pessoas = {
 #     print(chave, valor)
 
 
-pessoas.setdefault('idade', None)
-print(pessoas['idade'])
+# pessoas.setdefault('idade', None)
+# print(pessoas['idade'])
+
